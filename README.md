@@ -1,2 +1,2 @@
 # BookmarkBlocker
-Block chrome bookmarks for certain websites for goog
+Block chrome bookmarks for certain websites for good

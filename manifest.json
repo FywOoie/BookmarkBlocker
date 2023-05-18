@@ -1,0 +1,13 @@
+{
+    "name": "BookMarkBlocker",
+    "description": "Blocks bookmarking of listed sites",
+    "version": "1.0",
+    "permissions": [
+        "bookmarks"
+    ],
+    "background": {
+        "scripts": ["background.js"],
+        "persistent": false
+    },
+    "manifest_version": 2
+}
